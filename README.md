@@ -12,22 +12,29 @@ After learning how to control your pencil you should learn things in this order:
 ## Controlling your pencil
 
 How to hold and draw with a pencil correctly: https://drawabox.com/lesson/1/2
+
 Common mark-making problems and solutions: https://drawabox.com/lesson/1/3
+
 How to Hold and Control Your Pencil: https://www.youtube.com/watch?v=pMC0Cx3Uk84
 
 ##  Proportions and copying
 Learn to Draw #02 - Simplifying Objects + Learning to See: https://www.youtube.com/watch?v=nDe7kHa6MVo&list=PL1HIh25sbqZnkA1T09UtVHoyjYaMJuK0a&index=3
 
 ## Perspective
-A great introduction to perspective: https://www.youtube.com/watch?v=R60e9_ofV68
+A great introduction to perspective: https://www.youtube.com/watch?v=R60e9_ofV68 
+
 A full course on perspective: https://www.youtube.com/playlist?list=PLBUWOBID4m3MTjAEaTHNNWfNkjZegSjzK
+
 A useful but long and complicated perspective course: https://www.youtube.com/playlist?list=PLMXbAPr21di8DjTKCE3EoS4KFtNZ-FDnP
+
 A good video on ellipses: https://www.youtube.com/watch?v=EqkM43tm3PY
+
 A video on how to practice drawing ellipses: https://www.youtube.com/watch?v=J-ox0EJjd9U
 
 ## Gesture Drawing
 
 Arguably the best resource on gesture drawing: https://www.youtube.com/watch?v=sSzB3ESpfE0
+
 A gesture drawing demonstration: https://www.youtube.com/watch?v=ApyH98uufXg
 
 ## Figure Drawing
