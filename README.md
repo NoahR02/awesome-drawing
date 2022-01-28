@@ -46,7 +46,9 @@ Figure Drawing: Design and Invention by Michael Hampton: https://www.amazon.com/
 
 ## Light and Colors
 Foundations of Light and Shadow: https://www.youtube.com/watch?v=0q-LZVFZuGE&list=PLV2X3tgajVlHkH3FHxm3rLZWqScFTRhtv
+
 Digital Painting Basics: https://www.ctrlpaint.com/library
+
 A good introduction to Digital Painting (Beginners): https://www.youtube.com/watch?v=iwRa5qTnr8o
 
 ## Anatomy
